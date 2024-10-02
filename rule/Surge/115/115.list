@@ -1,17 +1,15 @@
-# NAME: 115
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:12:40
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 9
-# TOTAL: 10
-DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
-DOMAIN-SUFFIX,115.com
-DOMAIN-SUFFIX,115cdn.com
-DOMAIN-SUFFIX,115cdn.net
-DOMAIN-SUFFIX,115img.com
-DOMAIN-SUFFIX,116cd.cn
-DOMAIN-SUFFIX,116cd.com
-DOMAIN-SUFFIX,116cd.net
-DOMAIN-SUFFIX,anxia.com
-DOMAIN-SUFFIX,sq.cc
+#nba
+DOMAIN,nba.com
+DOMAIN,neulion-a.akamaihd.net
+DOMAIN,nlnbamdnyc-a.akamaihd.net
+DOMAIN,sdk.iad-03.braze.com
+DOMAIN,nbaprop.sc.omtrdc.net
+DOMAIN,nlnbaqos.neulion.com
+DOMAIN,watchnba.cdnfastly.endeavorstreaming.net
+DOMAIN,nbaapi.neulion.com
+DOMAIN,nba-api-cdn.opin.media
+DOMAIN,neulionqos-a.akamaihd.net
+DOMAIN,neulion.com
+DOMAIN,nbaprop.tt.omtrdc.net
+DOMAIN,lion-nba-msl.akamaized.net
+DOMAIN,nbanlds19vod.akamaized.net
